@@ -1,0 +1,41 @@
+p
+{
+	color: #fff;
+	font-size: 60px;
+	font-family: sans-serif;
+  	text-shadow: 0px 0px 1px #333;
+
+}
+
+.reloj-contenedor
+{
+  background-color: rgb(12, 119, 206);
+  max-width: 400px;
+  border-radius: 8px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top: 10%;
+}
+
+
+#hora 
+{
+	letter-spacing: 10px;
+	font-size: 40px;
+	padding: -100px;
+	color: #fff;
+}
+
+#fecha
+{
+	font-size: 80px;
+	color: #fff;
+}
+
+#hora p
+{
+	letter-spacing: 10px;
+	font-size: 25px;
+	padding: -100px;
+}
